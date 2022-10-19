@@ -54,4 +54,4 @@ This is a picture of a tree linked from the internet:
   
 This is a picture of a river linked from within this repository:
 
-![River](/../main/assets/images/GitHub Practice Assignment Image.jpeg)
+![River](Lily-iSci/docs/Image.png)
