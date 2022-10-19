@@ -46,3 +46,6 @@ This text is not a quote.
 
 This is a link to the McMaster Website [https://www.mcmaster.ca/]
 
+This is a picture of a tree:
+
+![Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg/220px-Ash_Tree_-_geograph.org.uk_-_590710.jpg)
