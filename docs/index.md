@@ -45,7 +45,13 @@ This text is not a quote.
 > This text is a quote.
 
 This is a link to the McMaster Website [https://www.mcmaster.ca/]
+  
+This is an emoji: 🪴 
 
-This is a picture of a tree:
+This is a picture of a tree linked from the internet:
 
 ![Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg/220px-Ash_Tree_-_geograph.org.uk_-_590710.jpg)
+  
+This is a picture of a river linked from within this repository:
+
+![River](/../main/assets/images/GitHub Practice Assignment Image.jpeg)
